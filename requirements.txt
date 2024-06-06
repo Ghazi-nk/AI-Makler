@@ -11,3 +11,4 @@ pymongo~=4.6.0
 PyGithub~=2.1.1
 chainlit~=1.0.200
 tavily-python
+requests_oauthlib
